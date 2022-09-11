@@ -1,0 +1,8 @@
+.item {
+  color: rgb(98, 96, 96);
+  height: 30px;
+  background-color: rgb(161, 197, 208);
+}
+.item:nth-child(even) {
+  background-color: rgb(216, 210, 210);
+}
